@@ -20,6 +20,7 @@ namespace Contemporary_Software_Dev_Lab2
             // Test-input with alternative col-order and non-int coordinate:
             //"1,y" "POINTS,X,Y,LENGTH,SHAPE;100,3,1,13,CIRCLE;200,1,-1,15,CIRCLE;300,-1,0,20,SQUARE;400,-3,2,8,SQUARE;"
 
+
             Game newGame = new Game(args[0], args[1]);
             
         }
