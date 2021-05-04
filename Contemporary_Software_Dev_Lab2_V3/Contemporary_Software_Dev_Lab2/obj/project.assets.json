@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/simonsjogedal/Projects/Contemporary_Software_Dev_Lab2/Contemporary_Software_Dev_Lab2/Contemporary_Software_Dev_Lab2.csproj",
+      "projectUniqueName": "/Users/simonsjogedal/Projects/Contemporary_Software_Development_Lab2/Contemporary_Software_Dev_Lab2_V3/Contemporary_Software_Dev_Lab2/Contemporary_Software_Dev_Lab2.csproj",
       "projectName": "Contemporary_Software_Dev_Lab2",
-      "projectPath": "/Users/simonsjogedal/Projects/Contemporary_Software_Dev_Lab2/Contemporary_Software_Dev_Lab2/Contemporary_Software_Dev_Lab2.csproj",
+      "projectPath": "/Users/simonsjogedal/Projects/Contemporary_Software_Development_Lab2/Contemporary_Software_Dev_Lab2_V3/Contemporary_Software_Dev_Lab2/Contemporary_Software_Dev_Lab2.csproj",
       "packagesPath": "/Users/simonsjogedal/.nuget/packages/",
-      "outputPath": "/Users/simonsjogedal/Projects/Contemporary_Software_Dev_Lab2/Contemporary_Software_Dev_Lab2/obj/",
+      "outputPath": "/Users/simonsjogedal/Projects/Contemporary_Software_Development_Lab2/Contemporary_Software_Dev_Lab2_V3/Contemporary_Software_Dev_Lab2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/simonsjogedal/.nuget/NuGet/NuGet.Config"
+        "/Users/simonsjogedal/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

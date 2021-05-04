@@ -8,7 +8,7 @@ namespace Contemporary_Software_Dev_Lab2
         static void Main(string[] args)
         {
 
-            // Test-input from lab-instructions:
+            // Test-input from lab instructions:
             //"1,0" "SHAPE,X,Y,LENGTH,POINTS;CIRCLE,3,1,13,100;CIRCLE,1,-1,15,200;SQUARE,-1,0,20,300;SQUARE,-3,2,8,400;"
 
             // Test-input with untrimmed values
