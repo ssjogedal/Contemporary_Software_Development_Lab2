@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Contemporary_Software_Dev_Lab2/1.0.0": {
+        "runtime": {
+          "Contemporary_Software_Dev_Lab2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contemporary_Software_Dev_Lab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
